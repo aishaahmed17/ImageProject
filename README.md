@@ -1,5 +1,4 @@
 # ImageProject
-Overview
 This project focuses on document image processing using the DIBCO dataset. The main objective is to improve the quality of degraded document images through different image processing techniques.
 The project applies preprocessing and enhancement methods to prepare document images for better readability and analysis
 Dataset
